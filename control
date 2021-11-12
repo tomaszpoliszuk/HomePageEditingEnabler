@@ -1,0 +1,10 @@
+Package: com.tomaszpoliszuk.homepageeditingenabler
+Depends: firmware (>= 14.0), firmware (<< 15.0), mobilesubstrate, cy+model.ipad
+Name: Home Page Editing Enabler
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable Home Page Editing on iPadOS
+Author: Tomasz Poliszuk
+Section: Tweaks
+dev: tomaszpoliszuk
+Tag: purpose::extension
